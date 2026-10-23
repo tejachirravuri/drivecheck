@@ -1,0 +1,7 @@
+{
+  "description": "25 km/h with 5 m gap. Below 30 km/h the rule is not applied.",
+  "timeout_s": 30,
+  "criteria": [
+    "following_distance"
+  ]
+}

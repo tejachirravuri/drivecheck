@@ -1,0 +1,7 @@
+{
+  "description": "Lane 2 at 40 km/h. Below 60 km/h the rule is not applied.",
+  "timeout_s": 30,
+  "criteria": [
+    "keep_right"
+  ]
+}

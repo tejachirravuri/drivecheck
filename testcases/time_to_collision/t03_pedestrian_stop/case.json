@@ -1,0 +1,8 @@
+{
+  "description": "Pedestrian standing in the lane at x=300 m. Host at 50 km/h brakes at 3 m/s^2 and stops 10 m short. Minimum TTC is sqrt(2*10/3) = 2.6 s.",
+  "timeout_s": 30,
+  "criteria": [
+    "time_to_collision",
+    "minimal_distance"
+  ]
+}

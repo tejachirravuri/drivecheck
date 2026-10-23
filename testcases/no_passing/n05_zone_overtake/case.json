@@ -1,0 +1,7 @@
+{
+  "description": "Overtakes on the left inside a no passing zone.",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing"
+  ]
+}

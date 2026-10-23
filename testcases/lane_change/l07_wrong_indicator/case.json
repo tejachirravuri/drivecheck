@@ -1,0 +1,7 @@
+{
+  "description": "Moves left while the right indicator is on.",
+  "timeout_s": 30,
+  "criteria": [
+    "lane_change"
+  ]
+}

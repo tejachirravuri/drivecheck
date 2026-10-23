@@ -1,0 +1,7 @@
+{
+  "description": "Following a car: 15 m at 120 km/h, 0.45 s.",
+  "timeout_s": 30,
+  "criteria": [
+    "following_distance"
+  ]
+}

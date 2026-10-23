@@ -1,0 +1,7 @@
+{
+  "description": "Signalled lane change across a solid line.",
+  "timeout_s": 30,
+  "criteria": [
+    "lane_change"
+  ]
+}

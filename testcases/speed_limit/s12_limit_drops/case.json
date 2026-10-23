@@ -1,0 +1,7 @@
+{
+  "description": "Constant 110 km/h. The limit drops from 120 to 80 km/h at x=600 m and the host does not slow down (37.5 % over).",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit"
+  ]
+}

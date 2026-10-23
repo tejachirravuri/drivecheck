@@ -1,0 +1,7 @@
+{
+  "description": "100 km/h with a 0.5 s spike to 120 km/h. Shorter than the 1 s hold time, so it must not count.",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit"
+  ]
+}

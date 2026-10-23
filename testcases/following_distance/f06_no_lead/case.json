@@ -1,0 +1,7 @@
+{
+  "description": "Only traffic is in the next lane, so there is no lead vehicle.",
+  "timeout_s": 30,
+  "criteria": [
+    "following_distance"
+  ]
+}

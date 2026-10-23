@@ -1,0 +1,7 @@
+{
+  "description": "Left lane at 40 km/h, host passes on the right at 70 km/h (30 km/h faster, limit is 20).",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing"
+  ]
+}

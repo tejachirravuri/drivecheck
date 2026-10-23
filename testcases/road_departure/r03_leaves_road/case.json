@@ -1,0 +1,7 @@
+{
+  "description": "Drifts fully off the road to the right.",
+  "timeout_s": 30,
+  "criteria": [
+    "road_departure"
+  ]
+}

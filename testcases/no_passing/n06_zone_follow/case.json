@@ -1,0 +1,7 @@
+{
+  "description": "No passing zone, host follows at the same speed.",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing"
+  ]
+}

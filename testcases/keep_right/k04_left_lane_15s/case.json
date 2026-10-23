@@ -1,0 +1,7 @@
+{
+  "description": "Lane 3 for 15 s with lane 2 empty.",
+  "timeout_s": 30,
+  "criteria": [
+    "keep_right"
+  ]
+}

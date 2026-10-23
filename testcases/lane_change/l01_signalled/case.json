@@ -1,0 +1,7 @@
+{
+  "description": "Lane 1 to 2, indicator on 3 s before crossing.",
+  "timeout_s": 30,
+  "criteria": [
+    "lane_change"
+  ]
+}

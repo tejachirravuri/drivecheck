@@ -1,0 +1,7 @@
+{
+  "description": "Stays in lane 2 for 25 s with the right lane empty.",
+  "timeout_s": 30,
+  "criteria": [
+    "keep_right"
+  ]
+}

@@ -1,0 +1,3 @@
+criterion,score,tolerance
+keep_right,10,0
+lane_change,10,0

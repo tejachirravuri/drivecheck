@@ -1,0 +1,14 @@
+{
+  "description": "Same overtake at 140 km/h, cutting back in without indicator.",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit",
+    "following_distance",
+    "time_to_collision",
+    "minimal_distance",
+    "lane_change",
+    "road_departure",
+    "keep_right",
+    "no_passing"
+  ]
+}

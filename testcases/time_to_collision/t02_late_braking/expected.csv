@@ -1,0 +1,3 @@
+criterion,score,tolerance
+time_to_collision,5,0
+following_distance,2,0

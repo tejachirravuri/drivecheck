@@ -1,0 +1,8 @@
+{
+  "description": "Host in lane 2 passes a truck and moves back about 2.5 s after the right lane is free.",
+  "timeout_s": 30,
+  "criteria": [
+    "keep_right",
+    "lane_change"
+  ]
+}

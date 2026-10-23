@@ -1,0 +1,7 @@
+{
+  "description": "Passes a car on the right at 120 vs 90 km/h.",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Drifts right until the right side is 0.5 m past the road edge.",
+  "timeout_s": 30,
+  "criteria": [
+    "road_departure"
+  ]
+}

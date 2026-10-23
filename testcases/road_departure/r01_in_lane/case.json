@@ -1,0 +1,7 @@
+{
+  "description": "Stays centred in lane 1.",
+  "timeout_s": 30,
+  "criteria": [
+    "road_departure"
+  ]
+}

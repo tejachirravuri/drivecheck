@@ -1,0 +1,8 @@
+{
+  "description": "Stopped truck in the lane. Host at 80 km/h does not brake and only leaves the lane with about 1.05 s TTC left.",
+  "timeout_s": 30,
+  "criteria": [
+    "time_to_collision",
+    "minimal_distance"
+  ]
+}

@@ -1,0 +1,9 @@
+criterion,score,tolerance
+speed_limit,7,0
+following_distance,10,0
+time_to_collision,10,0
+minimal_distance,10,0
+lane_change,1,0
+road_departure,10,0
+keep_right,10,0
+no_passing,10,0

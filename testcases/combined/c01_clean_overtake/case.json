@@ -1,0 +1,14 @@
+{
+  "description": "Truck overtake done by the book at 120 km/h in a 130 zone: signalled out at 90 m, passes, signalled back once the truck is well behind.",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit",
+    "following_distance",
+    "time_to_collision",
+    "minimal_distance",
+    "lane_change",
+    "road_departure",
+    "keep_right",
+    "no_passing"
+  ]
+}

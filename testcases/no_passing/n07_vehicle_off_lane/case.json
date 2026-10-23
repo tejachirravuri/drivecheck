@@ -1,0 +1,8 @@
+{
+  "description": "Host passes a car stopped on the shoulder, outside every lane. The pass cannot be judged, so the result has to be n/a and not a crash.",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing",
+    "road_departure"
+  ]
+}

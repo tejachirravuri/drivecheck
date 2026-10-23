@@ -1,0 +1,7 @@
+{
+  "description": "Drives in the rightmost lane.",
+  "timeout_s": 30,
+  "criteria": [
+    "keep_right"
+  ]
+}

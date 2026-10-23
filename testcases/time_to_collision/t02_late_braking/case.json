@@ -1,0 +1,8 @@
+{
+  "description": "Same approach, braking starts at 15 s with 33 m left. Minimum TTC about 2.8 s, ends up 11 m behind the truck (0.67 s).",
+  "timeout_s": 30,
+  "criteria": [
+    "time_to_collision",
+    "following_distance"
+  ]
+}

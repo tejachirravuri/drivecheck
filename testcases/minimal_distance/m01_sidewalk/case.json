@@ -1,0 +1,7 @@
+{
+  "description": "Host passes a pedestrian standing on the sidewalk, 3 m clearance.",
+  "timeout_s": 30,
+  "criteria": [
+    "minimal_distance"
+  ]
+}

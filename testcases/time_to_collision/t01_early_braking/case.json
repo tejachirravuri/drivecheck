@@ -1,0 +1,8 @@
+{
+  "description": "Closing in on a truck at 60 km/h from 200 m, braking from 100 to 60 km/h between 8 s and 12 s. TTC never drops below 10 s.",
+  "timeout_s": 30,
+  "criteria": [
+    "time_to_collision",
+    "following_distance"
+  ]
+}

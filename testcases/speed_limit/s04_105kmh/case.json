@@ -1,0 +1,7 @@
+{
+  "description": "Constant 105 km/h in a 100 km/h zone.",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit"
+  ]
+}

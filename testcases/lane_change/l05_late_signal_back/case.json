@@ -1,0 +1,7 @@
+{
+  "description": "Signalled change to the left, then back right with the indicator set only 0.5 s before crossing.",
+  "timeout_s": 30,
+  "criteria": [
+    "lane_change"
+  ]
+}

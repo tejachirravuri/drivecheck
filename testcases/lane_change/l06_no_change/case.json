@@ -1,0 +1,7 @@
+{
+  "description": "Stays in lane 1.",
+  "timeout_s": 30,
+  "criteria": [
+    "lane_change"
+  ]
+}

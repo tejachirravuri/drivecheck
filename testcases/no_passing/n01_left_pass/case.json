@@ -1,0 +1,7 @@
+{
+  "description": "Normal overtake on the left, 120 vs 90 km/h.",
+  "timeout_s": 30,
+  "criteria": [
+    "no_passing"
+  ]
+}

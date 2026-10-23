@@ -1,0 +1,8 @@
+{
+  "description": "Overtaking a truck on the left while hugging the inner side of the lane, 0.7 m lateral clearance.",
+  "timeout_s": 30,
+  "criteria": [
+    "minimal_distance",
+    "no_passing"
+  ]
+}

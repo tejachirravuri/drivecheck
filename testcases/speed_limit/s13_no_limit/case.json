@@ -1,0 +1,7 @@
+{
+  "description": "Unrestricted road, nothing to rate.",
+  "timeout_s": 30,
+  "criteria": [
+    "speed_limit"
+  ]
+}
